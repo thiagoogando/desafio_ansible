@@ -1,0 +1,3 @@
+[teste]
+host		ansible_host=10.0.0.92 ansible_user=vagrant ansible_password=vagrant
+

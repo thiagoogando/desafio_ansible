@@ -1,0 +1,12 @@
+---
+- name: Instando pacotes essenciais
+  apt:
+   name:  
+    - vim  
+    - net-tools
+    - curl
+    - unzip
+    - wget
+    - htop
+    - nmap
+   state: present    

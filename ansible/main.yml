@@ -1,0 +1,8 @@
+---
+- hosts: all
+  become: yes
+  roles:
+     - checklist
+     - create-user
+     - mudar_nome
+     - nginx
