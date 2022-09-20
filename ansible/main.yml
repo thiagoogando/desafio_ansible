@@ -6,5 +6,4 @@
      - create-user
      - mudar_nome
      - nginx 
-     - docker
      - role-update
